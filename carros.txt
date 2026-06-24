@@ -1,0 +1,17 @@
+ID:1
+Modelo carro: Civic
+Marca do carro: Honda
+Quantidade disponivel: 5
+Preço da hora: 45.90
+----------------------------------------
+ID:2
+Modelo carro: : Corolla
+Marca do carro: : Toyota
+Quantidade disponivel: : 5
+Preço da hora: : 49.50
+----------------------------------------
+ID:3
+Modelo carro: : Onix
+Marca do carro:  Chevrolet
+Quantidade disponivel:  7
+Preço da hora:  32.00
