@@ -66,7 +66,6 @@ Exemplos de consultas que podem ser armazenadas:
 - UPDATE
 - DELETE
 - INNER JOIN
-- LEFT JOIN
 - GROUP BY
 - COUNT
 - SUM
